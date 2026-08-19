@@ -56,3 +56,8 @@ The pipeline will check:
 - ✅ Responsive, Flexbox/Grid, no inline styles, quality reflection (reviewed by Claude)
 
 > **Submission rule:** If it is not deployed and public, it cannot be graded.
+
+
+
+----- Name: Laura Sofia Parra Gutierrez
+----- Deployment: https://dsaw-2026-2.github.io/hw-03-css-fundamentals-laurapargu-prog/
